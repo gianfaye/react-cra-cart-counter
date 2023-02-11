@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-cra-cart-counter/static/css/main.e6c13ad2.css",
+    "main.js": "/react-cra-cart-counter/static/js/main.095b529b.js",
+    "static/js/787.90453342.chunk.js": "/react-cra-cart-counter/static/js/787.90453342.chunk.js",
+    "index.html": "/react-cra-cart-counter/index.html",
+    "main.e6c13ad2.css.map": "/react-cra-cart-counter/static/css/main.e6c13ad2.css.map",
+    "main.095b529b.js.map": "/react-cra-cart-counter/static/js/main.095b529b.js.map",
+    "787.90453342.chunk.js.map": "/react-cra-cart-counter/static/js/787.90453342.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.095b529b.js"
+  ]
+}
